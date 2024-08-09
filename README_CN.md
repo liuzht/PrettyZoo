@@ -70,6 +70,8 @@ xattr -rc /Applications/prettyZoo.app
 5. - [x] 迁移到 [Jfoenix](https://github.com/sshahine/JFoenix)  UI 库 (V1.8.0+)
 6. - [ ] Zookeeper 监控
 7. - [x] 日志看板
+8. - [ ] 连接排序
+9. - [ ] 优化节点展示性能
 
 # 特性
 
@@ -89,7 +91,7 @@ xattr -rc /Applications/prettyZoo.app
 
 # 赞赏
 
-<img src="release/img/sponsor.jpg" width="250px"/>
+[Buy me a Coffee](https://www.buymeacoffee.com/liuzht)
 
 # 界面展示
 

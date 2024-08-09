@@ -72,6 +72,10 @@ xattr -rc /Applications/prettyZoo.app
     - [ ] zookeeper monitor
 7.
     - [x] log dashboard (v1.9.3)
+8.
+    - [ ] server sort
+9.
+    - [ ] optimize node display performance
 
 # Feature
 
@@ -92,9 +96,7 @@ See wiki: [build yourself](https://github.com/vran-dev/PrettyZoo/wiki/build-your
 
 # Sponsor
 
-By wechat sponsor code
-
-<img src="release/img/sponsor.jpg" width="250px"/>
+[Buy me a Coffee](https://www.buymeacoffee.com/liuzht)
 
 # Show
 
